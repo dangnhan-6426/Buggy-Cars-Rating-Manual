@@ -47,7 +47,7 @@ Exploratory testing to find unexpected bugs.
 Cross-browser and device testing.
 
 6. Test Environment
-Devices: Desktop (Windows), Mobile (Android)
+Devices: Desktop (Windows), Mobile (iOS)
 
 8. Entry Criteria
 Application deployed on test environment.
